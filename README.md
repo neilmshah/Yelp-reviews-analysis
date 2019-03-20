@@ -35,3 +35,4 @@ https://www.yelp.com/dataset/download
 ``` 
 python3 yelp_analysis.py
 ```
+Can also run the ipython jupyter notebook
